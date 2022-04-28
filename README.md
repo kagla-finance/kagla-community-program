@@ -56,7 +56,7 @@ In principle, we follow Astar's New Program.
 - There is no upper limit to the number of tasks you can do, so you can do as many as you like. For example, it is OK to do the same task more than once.
 - Each task is given specific points and you need to achieve at least 50% of the total points to qualify to receive the rewards.
 - If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
-- If we have extra LAY tokens, they are often carried over to the next month.
+- If we have extra KGL tokens, they are often carried over to the next month.
 <!-- -  Is this part right?-->
 - We will run this program for 4 months on a trial basis. The start date will be at the time of release and the end date will be 4 months after the release.
 - If you fail to earn 50% of the points in both of the two month Candidate periods, you will be required to exit the community program.
